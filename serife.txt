@@ -1,0 +1,3 @@
+Hi, I’m Serife.
+Spring 2026 CS student.
+Learning GitHub with VS Code.
