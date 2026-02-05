@@ -1,4 +1,0 @@
-Hi, this is Vishal.
-Learning Git basics for this class.
-
-
