@@ -1,3 +1,4 @@
+package HW1_jesse;
 public class hw1b {
     public static void main(String[] args) {
         int input1 = 10;

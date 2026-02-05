@@ -1,3 +1,4 @@
+package HW1_jesse;
 import java.util.Scanner;
 
 public class hw1 

@@ -1,3 +1,4 @@
+package HW1_jesse;
 import java.util.*;
 public class hw1c {
     public static void main(String[] args) {
